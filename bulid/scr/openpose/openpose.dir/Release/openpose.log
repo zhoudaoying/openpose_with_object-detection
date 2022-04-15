@@ -1,0 +1,1501 @@
+﻿  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/face/Release/openpose_generated_renderFace.cu.obj
+  renderFace.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  renderFace.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/gpu/Release/openpose_generated_cuda.cu.obj
+  cuda.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  cuda.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/hand/Release/openpose_generated_renderHand.cu.obj
+  renderHand.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  renderHand.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_bodyPartConnectorBase.cu.obj
+  bodyPartConnectorBase.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  bodyPartConnectorBase.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_maximumBase.cu.obj
+  maximumBase.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  maximumBase.cu
+D:\CUDA\include\thrust/detail/alignment.h(139): warning C4324: 鈥渢hrust::detail::aligned_type<2>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(140): warning C4324: 鈥渢hrust::detail::aligned_type<4>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(141): warning C4324: 鈥渢hrust::detail::aligned_type<8>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(142): warning C4324: 鈥渢hrust::detail::aligned_type<16>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(143): warning C4324: 鈥渢hrust::detail::aligned_type<32>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(144): warning C4324: 鈥渢hrust::detail::aligned_type<64>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(145): warning C4324: 鈥渢hrust::detail::aligned_type<128>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(90): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<2>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(96): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<4>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(102): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<8>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(108): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<16>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(114): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<32>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(120): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<64>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(126): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<128>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(132): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<256>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(138): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<512>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(144): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<1024>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(150): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<2048>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(156): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<4096>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(162): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<8192>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(174): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(175): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentScan<AgentScanPolicyT,InputIteratorT,OutputIteratorT,ScanOpT,InitValueT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(464): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentScan<AgentScanPolicyT,InputIteratorT,OutputIteratorT,ScanOpT,InitValueT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/scan.h(271): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(272): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(273): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(548): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(203): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(213): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentSelectIf<AgentSelectIfPolicyT,InputIteratorT,FlagsInputIteratorT,SelectedOutputIteratorT,SelectOpT,EqualityOpT,OffsetT,KEEP_REJECTS>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(697): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentSelectIf<AgentSelectIfPolicyT,InputIteratorT,FlagsInputIteratorT,SelectedOutputIteratorT,SelectOpT,EqualityOpT,OffsetT,KEEP_REJECTS>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(197): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(203): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(204): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(567): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>鈥濈殑寮曠敤
+D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(102): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(104): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::BlockReduceRakingCommutativeOnly<T,BLOCK_DIM_X,BLOCK_DIM_Y,BLOCK_DIM_Z,PTX_ARCH>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(195): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::BlockReduceRakingCommutativeOnly<T,BLOCK_DIM_X,BLOCK_DIM_Y,BLOCK_DIM_Z,PTX_ARCH>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(234): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(244): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentReduceByKey<AgentReduceByKeyPolicyT,KeysInputIteratorT,UniqueOutputIteratorT,ValuesInputIteratorT,AggregatesOutputIteratorT,NumRunsOutputIteratorT,EqualityOpT,ReductionOpT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(542): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentReduceByKey<AgentReduceByKeyPolicyT,KeysInputIteratorT,UniqueOutputIteratorT,ValuesInputIteratorT,AggregatesOutputIteratorT,NumRunsOutputIteratorT,EqualityOpT,ReductionOpT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(245): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(252): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(253): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(834): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(191): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(196): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentRadixSortDownsweep<AgentRadixSortDownsweepPolicy,IS_DESCENDING,KeyT,ValueT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(784): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentRadixSortDownsweep<AgentRadixSortDownsweepPolicy,IS_DESCENDING,KeyT,ValueT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/partition.h(171): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(177): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(178): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(573): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/unique.h(226): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(231): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(232): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(514): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(237): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(244): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(245): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(587): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(367): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(394): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(395): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(827): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(393): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(225): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(231): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(232): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(565): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/extrema.h(325): warning C4244: 鈥滃垵濮嬪寲鈥? 浠庘€淪ize鈥濊浆鎹㈠埌鈥渢hrust::detail::int32_t鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              Size=IndexType
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/extrema.h(397): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淭 thrust::cuda_cub::__extrema::extrema<thrust::cuda_cub::tag,zip_iterator,IndexType,thrust::cuda_cub::__extrema::arg_max_f<float,__int64,thrust::less<float>>,T>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,Size,BinaryOp,T *)鈥濈殑寮曠敤
+          with
+          [
+              T=T,
+              InputIt=zip_iterator,
+              Size=IndexType,
+              BinaryOp=thrust::cuda_cub::__extrema::arg_max_f<float,__int64,thrust::less<float>>
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/extrema.h(466): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淚temsIt thrust::cuda_cub::__extrema::element<thrust::cuda_cub::__extrema::arg_max_f,thrust::cuda_cub::tag,ItemsIt,BinaryPred>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,ItemsIt,ItemsIt,BinaryPred)鈥濈殑寮曠敤
+          with
+          [
+              ItemsIt=thrust::device_ptr<const float>,
+              BinaryPred=thrust::less<float>
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/extrema.h(491): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淚temsIt thrust::cuda_cub::max_element<thrust::cuda_cub::tag,ItemsIt,thrust::less<float>>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,ItemsIt,ItemsIt,BinaryPred)鈥濈殑寮曠敤
+          with
+          [
+              ItemsIt=thrust::device_ptr<const float>,
+              BinaryPred=thrust::less<float>
+          ]
+  D:\CUDA\include\thrust/detail/extrema.inl(55): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淚temsIt thrust::cuda_cub::max_element<thrust::cuda_cub::tag,ForwardIterator>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,ItemsIt,ItemsIt)鈥濈殑寮曠敤
+          with
+          [
+              ItemsIt=thrust::device_ptr<const float>,
+              ForwardIterator=thrust::device_ptr<const float>
+          ]
+  D:\CUDA\include\thrust/detail/extrema.inl(125): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淔orwardIterator thrust::max_element<DerivedPolicy,ForwardIterator>(const thrust::detail::execution_policy_base<DerivedPolicy> &,ForwardIterator,ForwardIterator)鈥濈殑寮曠敤
+          with
+          [
+              ForwardIterator=thrust::device_ptr<const float>,
+              DerivedPolicy=thrust::cuda_cub::tag
+          ]
+  D:/BaiduNetdiskDownload/openpose1/src/openpose/net/maximumBase.cu(101): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淔orwardIterator thrust::max_element<thrust::device_ptr<const float>>(ForwardIterator,ForwardIterator)鈥濈殑寮曠敤
+          with
+          [
+              ForwardIterator=thrust::device_ptr<const float>
+          ]
+  D:/BaiduNetdiskDownload/openpose1/src/openpose/net/maximumBase.cu(122): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€渧oid op::maximumGpu<float>(float *,const float *const ,const std::array<int,4> &,const std::array<int,4> &)鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/extrema.h(354): warning C4244: 鈥滃垵濮嬪寲鈥? 浠庘€淪ize鈥濊浆鎹㈠埌鈥渢hrust::detail::int32_t鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              Size=IndexType
+          ]
+D:\CUDA\include\cub\agent\../grid/grid_even_share.cuh(125): warning C4458: 鈥渘um_items鈥濈殑澹版槑闅愯棌浜嗙被鎴愬憳
+  D:\CUDA\include\cub\agent\../grid/grid_even_share.cuh(89): note: 鍙傝鈥渃ub::GridEvenShare<__int64>::num_items鈥濈殑澹版槑
+  D:\CUDA\include\cub\agent\../grid/grid_even_share.cuh(128): note: 鍦ㄧ紪璇?绫?妯℃澘 鎴愬憳鍑芥暟鈥渧oid cub::GridEvenShare<__int64>::DispatchInit(OffsetT,int,int)鈥濇椂
+          with
+          [
+              OffsetT=__int64
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/extrema.h(220): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€渧oid cub::GridEvenShare<__int64>::DispatchInit(OffsetT,int,int)鈥濈殑寮曠敤
+          with
+          [
+              OffsetT=__int64
+          ]
+  C:\Users\Administrator\AppData\Local\Temp\tmpxft_00000320_00000000-10_maximumBase.cudafe1.stub.c(223): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::GridEvenShare<__int64>鈥濈殑寮曠敤
+D:\CUDA\include\cub\agent\../grid/grid_even_share.cuh(133): warning C4244: 鈥?鈥? 浠庘€淥ffsetT鈥濊浆鎹㈠埌鈥渋nt鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              OffsetT=__int64
+          ]
+D:\CUDA\include\cub\agent\../grid/grid_even_share.cuh(135): warning C4244: 鈥?鈥? 浠庘€淥ffsetT鈥濊浆鎹㈠埌鈥渋nt鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              OffsetT=__int64
+          ]
+D:\CUDA\include\cub\util_device.cuh(323): warning C4706: 鏉′欢琛ㄨ揪寮忓唴鐨勮祴鍊?
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_nmsBase.cu.obj
+  nmsBase.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  nmsBase.cu
+D:\CUDA\include\thrust/detail/alignment.h(139): warning C4324: 鈥渢hrust::detail::aligned_type<2>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(140): warning C4324: 鈥渢hrust::detail::aligned_type<4>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(141): warning C4324: 鈥渢hrust::detail::aligned_type<8>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(142): warning C4324: 鈥渢hrust::detail::aligned_type<16>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(143): warning C4324: 鈥渢hrust::detail::aligned_type<32>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(144): warning C4324: 鈥渢hrust::detail::aligned_type<64>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/detail/alignment.h(145): warning C4324: 鈥渢hrust::detail::aligned_type<128>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(90): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<2>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(96): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<4>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(102): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<8>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(108): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<16>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(114): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<32>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(120): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<64>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(126): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<128>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(132): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<256>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(138): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<512>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(144): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<1024>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(150): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<2048>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(156): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<4096>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\thrust/system/cuda/detail/core/alignment.h(162): warning C4324: 鈥渢hrust::cuda_cub::aligned_type<8192>::type鈥? 鐢变簬瀵归綈璇存槑绗︼紝缁撴瀯琚～鍏?
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(174): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(175): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentScan<AgentScanPolicyT,InputIteratorT,OutputIteratorT,ScanOpT,InitValueT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_scan.cuh(464): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentScan<AgentScanPolicyT,InputIteratorT,OutputIteratorT,ScanOpT,InitValueT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/scan.h(271): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(272): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(273): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(548): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan::ScanAgent<InputIt,OutputIt,ScanOp,Size,T,Inclusive>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(203): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(213): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentSelectIf<AgentSelectIfPolicyT,InputIteratorT,FlagsInputIteratorT,SelectedOutputIteratorT,SelectOpT,EqualityOpT,OffsetT,KEEP_REJECTS>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_select_if.cuh(697): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentSelectIf<AgentSelectIfPolicyT,InputIteratorT,FlagsInputIteratorT,SelectedOutputIteratorT,SelectOpT,EqualityOpT,OffsetT,KEEP_REJECTS>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(197): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(203): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(204): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/copy_if.h(567): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__copy_if::CopyIfAgent<ItemsIt,StencilIt,OutputIt,Predicate,Size,NumSelectedOutputIt>鈥濈殑寮曠敤
+D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(102): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(104): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::BlockReduceRakingCommutativeOnly<T,BLOCK_DIM_X,BLOCK_DIM_Y,BLOCK_DIM_Z,PTX_ARCH>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\block\specializations/block_reduce_raking_commutative_only.cuh(195): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::BlockReduceRakingCommutativeOnly<T,BLOCK_DIM_X,BLOCK_DIM_Y,BLOCK_DIM_Z,PTX_ARCH>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(234): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(244): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentReduceByKey<AgentReduceByKeyPolicyT,KeysInputIteratorT,UniqueOutputIteratorT,ValuesInputIteratorT,AggregatesOutputIteratorT,NumRunsOutputIteratorT,EqualityOpT,ReductionOpT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_reduce_by_key.cuh(542): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentReduceByKey<AgentReduceByKeyPolicyT,KeysInputIteratorT,UniqueOutputIteratorT,ValuesInputIteratorT,AggregatesOutputIteratorT,NumRunsOutputIteratorT,EqualityOpT,ReductionOpT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(245): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(252): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(253): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/reduce_by_key.h(834): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__reduce_by_key::ReduceByKeyAgent<KeysInputIt,ValuesInputIt,KeysOutputIt,ValuesOutputIt,EqualityOp,ReductionOp,NumRunsOutputIt,Size>鈥濈殑寮曠敤
+D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(191): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(196): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentRadixSortDownsweep<AgentRadixSortDownsweepPolicy,IS_DESCENDING,KeyT,ValueT,OffsetT>::_TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\cub\device\dispatch\../../agent/agent_radix_sort_downsweep.cuh(784): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渃ub::AgentRadixSortDownsweep<AgentRadixSortDownsweepPolicy,IS_DESCENDING,KeyT,ValueT,OffsetT>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/partition.h(171): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(177): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(178): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/partition.h(573): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__partition::PartitionAgent<ItemsIt,StencilIt,SelectedOutIt,RejectedOutIt,Predicate,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/unique.h(226): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(231): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(232): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique.h(514): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique::UniqueAgent<ItemsIt,ItemsOutputIt,BinaryPred,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(237): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(244): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(245): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/unique_by_key.h(587): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__unique_by_key::UniqueByKeyAgent<KeyInputIt,ValInputIt,KeyOutputIt,ValOutputIt,BinaryPred,Size,NumSelectedOutIt>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(367): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(394): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(395): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(827): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__set_operations::SetOpAgent<KeysIt1,KeysIt2,ValuesIt1,ValuesIt2,KeysOutputIt,ValuesOutputIt,Size,CompareOp,SetOp,HAS_VALUES>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/set_operations.h(393): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(225): warning C4201: 浣跨敤浜嗛潪鏍囧噯鎵╁睍: 鏃犲悕绉扮殑缁撴瀯/鑱斿悎
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(231): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>::TempStorage鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(232): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>::PtxPlan<Arch>鈥濈殑寮曠敤
+  D:\CUDA\include\thrust/system/cuda/detail/scan_by_key.h(565): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑 绫?妯℃澘 瀹炰緥鍖栤€渢hrust::cuda_cub::__scan_by_key::ScanByKeyAgent<KeysInputIt,ValuesInputIt,ValuesOutputIt,EqualityOp,ScanOp,Size,T,Inclusive>鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/scan.h(717): warning C4244: 鈥滃垵濮嬪寲鈥? 浠庘€淪ize鈥濊浆鎹㈠埌鈥渢hrust::detail::int32_t鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              Size=diff_t
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(852): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIt thrust::cuda_cub::__scan::scan<thrust::detail::false_type,thrust::cuda_cub::tag,InputIt,OutputIt,Size,ScanOp,thrust::cuda_cub::__scan::AddInitToExclusiveScan<int,ScanOp>>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,OutputIt,Size,ScanOp,AddInitToExclusiveScan)鈥濈殑寮曠敤
+          with
+          [
+              OutputIt=thrust::device_ptr<int>,
+              InputIt=thrust::device_ptr<int>,
+              Size=diff_t,
+              ScanOp=thrust::plus<int>,
+              AddInitToExclusiveScan=thrust::cuda_cub::__scan::AddInitToExclusiveScan<int,thrust::plus<int>>
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(889): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIt thrust::cuda_cub::exclusive_scan_n<thrust::cuda_cub::tag,InputIt,diff_t,OutputIt,T,ScanOp>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,Size,OutputIt,T,ScanOp)鈥濈殑寮曠敤
+          with
+          [
+              OutputIt=thrust::device_ptr<int>,
+              InputIt=thrust::device_ptr<int>,
+              T=int,
+              ScanOp=thrust::plus<int>,
+              Size=diff_t
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(903): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIt thrust::cuda_cub::exclusive_scan<thrust::cuda_cub::tag,InputIt,OutputIt,T,thrust::plus<T>>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,InputIt,OutputIt,T,ScanOp)鈥濈殑寮曠敤
+          with
+          [
+              OutputIt=thrust::device_ptr<int>,
+              InputIt=thrust::device_ptr<int>,
+              T=int,
+              ScanOp=thrust::plus<int>
+          ]
+  D:\CUDA\include\thrust/system/cuda/detail/scan.h(920): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIt thrust::cuda_cub::exclusive_scan<thrust::cuda_cub::tag,InputIt,OutputIt,int>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,OutputIt,OutputIt,T)鈥濈殑寮曠敤
+          with
+          [
+              OutputIt=thrust::device_ptr<int>,
+              InputIt=thrust::device_ptr<int>,
+              T=int
+          ]
+  D:\CUDA\include\thrust/detail/scan.inl(78): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIt thrust::cuda_cub::exclusive_scan<thrust::cuda_cub::tag,InputIterator,InputIterator>(thrust::cuda_cub::execution_policy<thrust::cuda_cub::tag> &,InputIt,OutputIt,OutputIt)鈥濈殑寮曠敤
+          with
+          [
+              OutputIt=thrust::device_ptr<int>,
+              InputIterator=thrust::device_ptr<int>,
+              InputIt=thrust::device_ptr<int>
+          ]
+  D:\CUDA\include\thrust/detail/scan.inl(307): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIterator thrust::exclusive_scan<DerivedPolicy,InputIterator,OutputIterator>(const thrust::detail::execution_policy_base<DerivedPolicy> &,InputIterator,InputIterator,OutputIterator)鈥濈殑寮曠敤
+          with
+          [
+              OutputIterator=thrust::device_ptr<int>,
+              DerivedPolicy=thrust::cuda_cub::tag,
+              InputIterator=thrust::device_ptr<int>
+          ]
+  D:/BaiduNetdiskDownload/openpose1/src/openpose/net/nmsBase.cu(329): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€淥utputIterator thrust::exclusive_scan<thrust::device_ptr<int>,thrust::device_ptr<int>>(InputIterator,InputIterator,OutputIterator)鈥濈殑寮曠敤
+          with
+          [
+              OutputIterator=thrust::device_ptr<int>,
+              InputIterator=thrust::device_ptr<int>
+          ]
+  D:/BaiduNetdiskDownload/openpose1/src/openpose/net/nmsBase.cu(353): note: 鏌ョ湅瀵规鍦ㄧ紪璇戠殑鍑芥暟 妯℃澘 瀹炰緥鍖栤€渧oid op::nmsGpu<float>(float *,int *,const float *const ,const float,const std::array<int,4> &,const std::array<int,4> &,const op::Point<float> &)鈥濈殑寮曠敤
+D:\CUDA\include\thrust/system/cuda/detail/scan.h(736): warning C4244: 鈥滃垵濮嬪寲鈥? 浠庘€淪ize鈥濊浆鎹㈠埌鈥渢hrust::detail::int32_t鈥濓紝鍙兘涓㈠け鏁版嵁
+          with
+          [
+              Size=diff_t
+          ]
+D:\CUDA\include\cub\util_device.cuh(323): warning C4706: 鏉′欢琛ㄨ揪寮忓唴鐨勮祴鍊?
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_resizeAndMergeBase.cu.obj
+  resizeAndMergeBase.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  resizeAndMergeBase.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/pose/Release/openpose_generated_renderPose.cu.obj
+  renderPose.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  renderPose.cu
+  Building NVCC (Device) object src/openpose/CMakeFiles/openpose.dir/tracking/Release/openpose_generated_pyramidalLK.cu.obj
+  pyramidalLK.cu
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/matrix.hpp(204): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/string.hpp(39): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(31): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(56): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(64): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(85): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(94): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(104): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(118): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(129): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(136): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(143): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(150): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(157): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(165): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(172): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(179): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(186): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(194): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(217): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(223): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(229): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(239): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+D:\BaiduNetdiskDownload\openpose1\include\openpose/core/datum.hpp(250): warning : field of class type without a DLL interface used in a class with a DLL interface
+  
+  pyramidalLK.cu
+  cameraParameterReader.cpp
+  jointAngleEstimation.cpp
+  poseTriangulation.cpp
+  poseTriangulationPrivate.cpp
+  cameraParameterEstimation.cpp
+  gridPatternFunctions.cpp
+  array.cpp
+  arrayCpuGpu.cpp
+  cvMatToOpInput.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/blob.hpp(74,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/blob.hpp(74): message : 在编译 类 模板 成员函数“int caffe::Blob<T>::num_axes(void) const”时
+          with
+          [
+              T=double
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp(265): message : 查看对正在编译的函数 模板 实例化“int caffe::Blob<T>::num_axes(void) const”的引用
+          with
+          [
+              T=double
+          ]
+D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp(130): message : 查看对正在编译的 类 模板 实例化“caffe::Blob<T>”的引用
+          with
+          [
+              T=double
+          ]
+D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp(121): message : 在编译 类 模板 成员函数“op::ArrayCpuGpu<double>::ArrayCpuGpu(const int,const int,const int,const int)”时
+D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp(890): message : 查看对正在编译的 类 模板 实例化“op::ArrayCpuGpu<double>”的引用
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp)
+  cvMatToOpOutput.cpp
+  datum.cpp
+  gpuRenderer.cpp
+  keepTopNPeople.cpp
+  keypointScaler.cpp
+  matrix.cpp
+  opOutputToCvMat.cpp
+  point.cpp
+  rectangle.cpp
+  renderer.cpp
+  scaleAndSizeExtractor.cpp
+  verbosePrinter.cpp
+  faceDetector.cpp
+  faceDetectorOpenCV.cpp
+  faceExtractorCaffe.cpp
+  faceExtractorNet.cpp
+  faceCpuRenderer.cpp
+  faceGpuRenderer.cpp
+  faceRenderer.cpp
+  renderFace.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+  bvhSaver.cpp
+  cocoJsonSaver.cpp
+  fileSaver.cpp
+  fileStream.cpp
+  heatMapSaver.cpp
+  imageSaver.cpp
+  jsonOfstream.cpp
+  keypointSaver.cpp
+  peopleJsonSaver.cpp
+  udpSender.cpp
+  videoSaver.cpp
+  cuda.cpp
+  gpu.cpp
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp)
+  opencl.cpp
+  frameDisplayer.cpp
+  gui.cpp
+  guiAdam.cpp
+  gui3D.cpp
+  guiInfoAdder.cpp
+  handDetector.cpp
+  handDetectorFromTxt.cpp
+  handExtractorCaffe.cpp
+  handExtractorNet.cpp
+  handCpuRenderer.cpp
+  handGpuRenderer.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+  handRenderer.cpp
+  renderHand.cpp
+  bodyPartConnectorBase.cpp
+  bodyPartConnectorBaseCL.cpp
+  bodyPartConnectorCaffe.cpp
+  maximumBase.cpp
+  maximumCaffe.cpp
+  netCaffe.cpp
+  netOpenCv.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+  nmsBase.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp)
+  nmsBaseCL.cpp
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/layer.hpp(268,52): warning C4100: “bottom_index”: 未引用的形参 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/layer.hpp(268): message : 在编译 类 模板 成员函数“bool caffe::Layer<Dtype>::AllowForceBackward(const int) const”时
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(1680): message : 查看对正在编译的 类 模板 实例化“caffe::Layer<Dtype>”的引用
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(1678): message : 在编译 类 模板 成员函数“void std::vector<boost::shared_ptr<caffe::Layer<Dtype>>,std::allocator<boost::shared_ptr<caffe::Layer<Dtype>>>>::_Destroy(boost::shared_ptr<caffe::Layer<Dtype>> *,boost::shared_ptr<caffe::Layer<Dtype>> *)”时
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(1764): message : 查看对正在编译的函数 模板 实例化“void std::vector<boost::shared_ptr<caffe::Layer<Dtype>>,std::allocator<boost::shared_ptr<caffe::Layer<Dtype>>>>::_Destroy(boost::shared_ptr<caffe::Layer<Dtype>> *,boost::shared_ptr<caffe::Layer<Dtype>> *)”的引用
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/net.hpp(281): message : 查看对正在编译的 类 模板 实例化“std::vector<boost::shared_ptr<caffe::Layer<Dtype>>,std::allocator<boost::shared_ptr<caffe::Layer<Dtype>>>>”的引用
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp(112): message : 查看对正在编译的 类 模板 实例化“caffe::Net<float>”的引用
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/layer.hpp(92,35): warning C4100: “top”: 未引用的形参 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/layer.hpp(92): message : 在编译 类 模板 成员函数“void caffe::Layer<Dtype>::LayerSetUp(const std::vector<caffe::Blob<Dtype> *,std::allocator<caffe::Blob<Dtype> *>> &,const std::vector<caffe::Blob<Dtype> *,std::allocator<caffe::Blob<Dtype> *>> &)”时
+          with
+          [
+              Dtype=float
+          ] (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include\caffe/layer.hpp(91,55): warning C4100: “bottom”: 未引用的形参 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp)
+  nmsCaffe.cpp
+  resizeAndMergeBase.cpp
+  resizeAndMergeBaseCL.cpp
+  resizeAndMergeCaffe.cpp
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+  poseCpuRenderer.cpp
+  poseExtractor.cpp
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp)
+  poseExtractorCaffe.cpp
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp)
+D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include\google/protobuf/message_lite.h(247,32): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+  poseExtractorNet.cpp
+  poseGpuRenderer.cpp
+  poseParameters.cpp
+  poseParametersRender.cpp
+D:\CUDA\include\cuda_fp16.hpp(514,38): warning C4505: “__float2half_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(528,38): warning C4505: “__float2half_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(545,38): warning C4505: “__float2half_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(562,39): warning C4505: “__float2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(574,39): warning C4505: “__floats2half2_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(634,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_fp16.hpp(646,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(419,45): warning C4505: “__float2bfloat16_rz”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(433,45): warning C4505: “__float2bfloat16_rd”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(446,45): warning C4505: “__float2bfloat16_ru”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(459,46): warning C4505: “__float2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(471,46): warning C4505: “__floats2bfloat162_rn”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(505,37): warning C4505: “__low2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+D:\CUDA\include\cuda_bf16.hpp(510,37): warning C4505: “__high2float”: 未引用的本地函数已移除 (编译源文件 D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp)
+  poseRenderer.cpp
+  renderPose.cpp
+  datumProducer.cpp
+  flirReader.cpp
+  imageDirectoryReader.cpp
+  ipCameraReader.cpp
+  producer.cpp
+  spinnakerWrapper.cpp
+  videoCaptureReader.cpp
+  videoReader.cpp
+  webcamReader.cpp
+  personIdExtractor.cpp
+  personTracker.cpp
+  pyramidalLK.cpp
+  unityBinding.cpp
+  errorAndLog.cpp
+  fileSystem.cpp
+D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\errorAndLog.cpp(120,23): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  flagsToOpenPose.cpp
+  keypoint.cpp
+D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\flagsToOpenPose.cpp(331,32): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  openCv.cpp
+D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\fileSystem.cpp(136,30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  openCvPrivate.cpp
+  profiler.cpp
+  wrapperAuxiliary.cpp
+  wrapperStructExtra.cpp
+  wrapperStructFace.cpp
+  wrapperStructGui.cpp
+  wrapperStructHand.cpp
+  wrapperStructInput.cpp
+  wrapperStructOutput.cpp
+  wrapperStructPose.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  string.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  defineTemplates.cpp
+  string.cpp
+  defineTemplates.cpp
+    正在创建库 D:/BaiduNetdiskDownload/openpose1/build/src/openpose/Release/openpose.lib 和对象 D:/BaiduNetdiskDownload/openpose1/build/src/openpose/Release/openpose.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_pyramidalLK.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_maximumBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_nmsBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_resizeAndMergeBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_renderFace.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_cuda.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_renderHand.cu.obj”导入
+LINK : warning LNK4286: 符号“?error@op@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H00@Z (void __cdecl op::error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“errorAndLog.obj”中定义)已由“openpose_generated_bodyPartConnectorBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_nmsBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_resizeAndMergeBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderFace.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderHand.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_bodyPartConnectorBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?cudaCheck@op@@YAXHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z (void __cdecl op::cudaCheck(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &))”(在“cuda.obj”中定义)已由“openpose_generated_maximumBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?getNumberCudaThreadsAndBlocks@op@@YAXAEAUdim3@@0AEBU?$Point@I@1@@Z (void __cdecl op::getNumberCudaThreadsAndBlocks(struct dim3 &,struct dim3 &,struct op::Point<unsigned int> const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderFace.cu.obj”导入
+LINK : warning LNK4286: 符号“?getNumberCudaThreadsAndBlocks@op@@YAXAEAUdim3@@0AEBU?$Point@I@1@@Z (void __cdecl op::getNumberCudaThreadsAndBlocks(struct dim3 &,struct dim3 &,struct op::Point<unsigned int> const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderHand.cu.obj”导入
+LINK : warning LNK4286: 符号“?getNumberCudaThreadsAndBlocks@op@@YAXAEAUdim3@@0AEBU?$Point@I@1@@Z (void __cdecl op::getNumberCudaThreadsAndBlocks(struct dim3 &,struct dim3 &,struct op::Point<unsigned int> const &))”(在“cuda.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+LINK : warning LNK4286: 符号“??1Matrix@op@@QEAA@XZ (public: __cdecl op::Matrix::~Matrix(void))”(在“cameraParameterReader.obj”中定义)已由“openpose_generated_bodyPartConnectorBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?getPoseNumberBodyParts@op@@YAIW4PoseModel@1@@Z (unsigned int __cdecl op::getPoseNumberBodyParts(enum op::PoseModel))”(在“poseParameters.obj”中定义)已由“openpose_generated_bodyPartConnectorBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?getPoseNumberBodyParts@op@@YAIW4PoseModel@1@@Z (unsigned int __cdecl op::getPoseNumberBodyParts(enum op::PoseModel))”(在“poseParameters.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+LINK : warning LNK4286: 符号“?getPosePartPairs@op@@YAAEBV?$vector@IV?$allocator@I@std@@@std@@W4PoseModel@1@@Z (class std::vector<unsigned int,class std::allocator<unsigned int> > const & __cdecl op::getPosePartPairs(enum op::PoseModel))”(在“poseParameters.obj”中定义)已由“openpose_generated_bodyPartConnectorBase.cu.obj”导入
+LINK : warning LNK4286: 符号“?getPosePartPairs@op@@YAAEBV?$vector@IV?$allocator@I@std@@@std@@W4PoseModel@1@@Z (class std::vector<unsigned int,class std::allocator<unsigned int> > const & __cdecl op::getPosePartPairs(enum op::PoseModel))”(在“poseParameters.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+LINK : warning LNK4286: 符号“?addBkgChannel@op@@YA_NW4PoseModel@1@@Z (bool __cdecl op::addBkgChannel(enum op::PoseModel))”(在“poseParameters.obj”中定义)已由“openpose_generated_renderPose.cu.obj”导入
+  openpose.vcxproj -> D:\BaiduNetdiskDownload\openpose1\build\x64\Release\openpose.dll

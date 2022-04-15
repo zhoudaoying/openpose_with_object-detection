@@ -1,0 +1,144 @@
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\FACE\RENDERFACE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\face
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/Release/openpose_generated_renderFace.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/Release/openpose_generated_renderFace.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/openpose_generated_renderFace.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\GPU\CUDA.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\gpu
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/Release/openpose_generated_cuda.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/Release/openpose_generated_cuda.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/openpose_generated_cuda.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\HAND\RENDERHAND.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\hand
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/Release/openpose_generated_renderHand.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/Release/openpose_generated_renderHand.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/openpose_generated_renderHand.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\NET\BODYPARTCONNECTORBASE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_bodyPartConnectorBase.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_bodyPartConnectorBase.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_bodyPartConnectorBase.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\NET\MAXIMUMBASE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_maximumBase.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_maximumBase.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_maximumBase.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\NET\NMSBASE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_nmsBase.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_nmsBase.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_nmsBase.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\NET\RESIZEANDMERGEBASE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_resizeAndMergeBase.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/Release/openpose_generated_resizeAndMergeBase.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_resizeAndMergeBase.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\POSE\RENDERPOSE.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\pose
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/Release/openpose_generated_renderPose.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/Release/openpose_generated_renderPose.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/openpose_generated_renderPose.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BAIDUNETDISKDOWNLOAD\OPENPOSE1\SRC\OPENPOSE\TRACKING\PYRAMIDALLK.CU
+setlocal
+cd D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\tracking
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -E make_directory D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/Release
+if %errorlevel% neq 0 goto :cmEnd
+D:\CMake\bin\cmake.exe -D verbose:BOOL=OFF -D "CCBIN:PATH=D:\Visual Studio IDE\VC\Tools/MSVC/14.29.30037/bin/Hostx64/x64" -D build_configuration:STRING=Release -D generated_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/Release/openpose_generated_pyramidalLK.cu.obj -D generated_cubin_file:STRING=D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/Release/openpose_generated_pyramidalLK.cu.obj.cubin.txt -P D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/openpose_generated_pyramidalLK.cu.obj.Release.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
