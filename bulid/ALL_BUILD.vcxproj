@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveNugetPackages>false</ResolveNugetPackages>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{FEE95D77-912D-3C6C-8892-E78581F608F3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\01_body_from_image_default.vcxproj">
+      <Project>{90112596-8223-36BF-BFDE-41AF036D9328}</Project>
+      <Name>01_body_from_image_default</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\02_whole_body_from_image_default.vcxproj">
+      <Project>{0C4A5CD4-5D6C-3F4A-81B4-F7FF257EC9A0}</Project>
+      <Name>02_whole_body_from_image_default</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\03_keypoints_from_image.vcxproj">
+      <Project>{4FB50275-A2D9-3693-AA9F-2A4C8A8529A3}</Project>
+      <Name>03_keypoints_from_image</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\04_keypoints_from_images.vcxproj">
+      <Project>{740BCF50-28CB-3B7E-9D13-FDDD70609663}</Project>
+      <Name>04_keypoints_from_images</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\05_keypoints_from_images_multi_gpu.vcxproj">
+      <Project>{702BB6BE-AA24-32E7-BB96-F60A9932750A}</Project>
+      <Name>05_keypoints_from_images_multi_gpu</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\06_face_from_image.vcxproj">
+      <Project>{7A794949-3B25-38C6-AE4F-DCBF5103B46F}</Project>
+      <Name>06_face_from_image</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\07_hand_from_image.vcxproj">
+      <Project>{6FC99C4C-4AED-3EFC-95A4-B10956BC39FE}</Project>
+      <Name>07_hand_from_image</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\08_heatmaps_from_image.vcxproj">
+      <Project>{CF4CDE7F-AF67-3DC6-9E1C-1B669CDB3A0B}</Project>
+      <Name>08_heatmaps_from_image</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\09_keypoints_from_heatmaps.vcxproj">
+      <Project>{4062EDEA-3962-3506-9978-E56F7742870C}</Project>
+      <Name>09_keypoints_from_heatmaps</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\10_asynchronous_custom_input.vcxproj">
+      <Project>{46A12725-8207-3621-A665-6AE0A8E25AD7}</Project>
+      <Name>10_asynchronous_custom_input</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\11_asynchronous_custom_input_multi_camera.vcxproj">
+      <Project>{B629200B-E8E8-3BB9-B5F2-D76700CDF2D5}</Project>
+      <Name>11_asynchronous_custom_input_multi_camera</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\12_asynchronous_custom_output.vcxproj">
+      <Project>{CBE9459D-42D0-34E6-B094-F3D472976A95}</Project>
+      <Name>12_asynchronous_custom_output</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\13_asynchronous_custom_input_output_and_datum.vcxproj">
+      <Project>{6A2EC7B3-6F4D-348A-A4B3-37533577B6EA}</Project>
+      <Name>13_asynchronous_custom_input_output_and_datum</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\14_synchronous_custom_input.vcxproj">
+      <Project>{5A7D4111-5C70-3DCE-AAF0-11A82CED1F26}</Project>
+      <Name>14_synchronous_custom_input</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\15_synchronous_custom_preprocessing.vcxproj">
+      <Project>{88BA234F-6E3D-3FD5-919A-0040E9FF7DFB}</Project>
+      <Name>15_synchronous_custom_preprocessing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\16_synchronous_custom_postprocessing.vcxproj">
+      <Project>{B7A0F0FC-4F8C-3BCB-8B8D-3BC492BEA3AD}</Project>
+      <Name>16_synchronous_custom_postprocessing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\17_synchronous_custom_output.vcxproj">
+      <Project>{92442761-3E7D-3DF5-A0A5-0C2EDF50E67D}</Project>
+      <Name>17_synchronous_custom_output</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\tutorial_api_cpp\18_synchronous_custom_all_and_datum.vcxproj">
+      <Project>{B8771D52-F69B-35A3-A271-29A3226F7FAC}</Project>
+      <Name>18_synchronous_custom_all_and_datum</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\calibration\Calibration.vcxproj">
+      <Project>{EB4CB82B-0ADA-360B-93FF-C9DEC2A5EFE8}</Project>
+      <Name>Calibration</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\openpose\OpenPoseDemo.vcxproj">
+      <Project>{063EB1AA-C573-3440-AEDF-61D939FC8025}</Project>
+      <Name>OpenPoseDemo</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\openpose.vcxproj">
+      <Project>{686FFB65-754C-3EDA-9300-C137FCFE0058}</Project>
+      <Name>openpose</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\python\openpose\pyopenpose.vcxproj">
+      <Project>{07C1111F-029C-3DD1-9559-6CDCBC7A0D86}</Project>
+      <Name>pyopenpose</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\deprecated\tutorial_add_module_custom_post_processing.vcxproj">
+      <Project>{BF2810B6-DB4F-3845-BE22-CD08918AA25A}</Project>
+      <Name>tutorial_add_module_custom_post_processing</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\deprecated\tutorial_api_thread_1_user_processing_function.vcxproj">
+      <Project>{EEF40954-32B2-34C4-A8C5-3AA37E5944BB}</Project>
+      <Name>tutorial_api_thread_1_user_processing_function</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\examples\deprecated\tutorial_api_thread_2_user_input_processing_output_and_datum.vcxproj">
+      <Project>{3279E832-67C4-371B-A49D-EFEC3D339824}</Project>
+      <Name>tutorial_api_thread_2_user_input_processing_output_and_datum</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
