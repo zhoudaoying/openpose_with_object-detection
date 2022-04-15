@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{07C1111F-029C-3DD1-9559-6CDCBC7A0D86}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>pyopenpose</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\BaiduNetdiskDownload\openpose1\build\python\openpose\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">pyopenpose.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">pyopenpose.cp37-win_amd64</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.pyd</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\BaiduNetdiskDownload\openpose1\build\python\openpose\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">pyopenpose.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">pyopenpose.cp37-win_amd64</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.pyd</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <DebugInformationFormat>OldStyle</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <WholeProgramOptimization>true</WholeProgramOptimization>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);NDEBUG;USE_CAFFE;USE_CUDA;CMAKE_INTDIR="Release";pyopenpose_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;NDEBUG;USE_CAFFE;USE_CUDA;CMAKE_INTDIR=\"Release\";pyopenpose_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\libs\Python37.lib;-LTCG;..\..\src\openpose\Release\openpose.lib;..\..\..\3rdparty\windows\opencv\x64\vc15\lib\opencv_world450.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\gflags.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\glog.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffe.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_system-vc142-mt-x64-1_74.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_filesystem-vc142-mt-x64-1_74.lib;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\libs\Python37.lib;D:\CUDA\lib\x64\cudart_static.lib;..\..\..\3rdparty\windows\opencv\x64\vc15\lib\opencv_world450.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\gflags.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\glog.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffe.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_system-vc142-mt-x64-1_74.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_filesystem-vc142-mt-x64-1_74.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Release/pyopenpose.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Release/pyopenpose.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);USE_CAFFE;USE_CUDA;CMAKE_INTDIR="Debug";pyopenpose_EXPORTS</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;USE_CAFFE;USE_CUDA;CMAKE_INTDIR=\"Debug\";pyopenpose_EXPORTS</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>D:\BaiduNetdiskDownload\openpose1\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\opencv\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe\include2;D:\CUDA\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\windows\caffe3rdparty\include;D:\BaiduNetdiskDownload\openpose1\3rdparty\pybind11\include;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\libs\Python37.lib;..\..\src\openpose\Debug\openposed.lib;..\..\..\3rdparty\windows\opencv\x64\vc15\lib\opencv_world450d.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\gflagsd.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\glogd.lib;..\..\..\3rdparty\windows\caffe\lib\caffe-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_system-vc142-mt-x64-1_74.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_filesystem-vc142-mt-x64-1_74.lib;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\libs\Python37.lib;D:\CUDA\lib\x64\cudart_static.lib;..\..\..\3rdparty\windows\opencv\x64\vc15\lib\opencv_world450d.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\gflagsd.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\glogd.lib;..\..\..\3rdparty\windows\caffe\lib\caffe-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto-d.lib;..\..\..\3rdparty\windows\caffe\lib\caffeproto.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_system-vc142-mt-x64-1_74.lib;..\..\..\3rdparty\windows\caffe3rdparty\lib\boost_filesystem-vc142-mt-x64-1_74.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Debug/pyopenpose.lib</ImportLibrary>
+      <ProgramDataBaseFile>D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Debug/pyopenpose.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\python\openpose\openpose_python.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\openpose.vcxproj">
+      <Project>{686FFB65-754C-3EDA-9300-C137FCFE0058}</Project>
+      <Name>openpose</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,78 @@
+﻿  openpose_python.cpp
+D:\BaiduNetdiskDownload\openpose1\include\openpose/flags.hpp(49,1): warning C4245: “初始化”: 从“int”转换到“google::uint64”，有符号/无符号不匹配
+D:\BaiduNetdiskDownload\openpose1\python\openpose\openpose_python.cpp(497,36): warning C4100: “imp”: 未引用的形参
+D:\BaiduNetdiskDownload\openpose1\python\openpose\openpose_python.cpp(497,26): warning C4100: “src”: 未引用的形参
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\xmemory(714,47): warning C4244: “初始化”: 从“__int64”转换到“_Objty”，可能丢失数据
+          with
+          [
+              _Objty=int
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\xmemory(1611): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64&>(_Alloc &,_Objty *const ,__int64 &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\xmemory(1611): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,__int64&>(_Alloc &,_Objty *const ,__int64 &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ty=int,
+              _Objty=int
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\xmemory(1651): message : 查看对正在编译的函数 模板 实例化“void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<__int64&>(__int64 &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\xmemory(1651): message : 查看对正在编译的函数 模板 实例化“void std::_Uninitialized_backout_al<_Alloc>::_Emplace_back<__int64&>(__int64 &)”的引用
+          with
+          [
+              _Alloc=std::allocator<int>
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(1654): message : 查看对正在编译的函数 模板 实例化“int *std::_Uninitialized_copy<_Iter,std::allocator<int>>(const _InIt,const _InIt,int *,_Alloc &)”的引用
+          with
+          [
+              _Iter=__int64 *,
+              _InIt=__int64 *,
+              _Alloc=std::allocator<int>
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(530): message : 查看对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<int>>::_Ucopy<_Iter>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Iter=__int64 *
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(530): message : 查看对正在编译的函数 模板 实例化“int *std::vector<int,std::allocator<int>>::_Ucopy<_Iter>(_Iter,_Iter,int *)”的引用
+          with
+          [
+              _Iter=__int64 *
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(542): message : 查看对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<int>>::_Range_construct_or_tidy<__int64*>(_Iter,_Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=__int64 *
+          ]
+D:\Visual Studio IDE\VC\Tools\MSVC\14.29.30037\include\vector(542): message : 查看对正在编译的函数 模板 实例化“void std::vector<int,std::allocator<int>>::_Range_construct_or_tidy<__int64*>(_Iter,_Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=__int64 *
+          ]
+D:\BaiduNetdiskDownload\openpose1\python\openpose\openpose_python.cpp(450): message : 查看对正在编译的函数 模板 实例化“std::vector<int,std::allocator<int>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Ty=pybind11::ssize_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<pybind11::ssize_t>>>,
+              _Alloc=std::allocator<int>
+          ]
+D:\BaiduNetdiskDownload\openpose1\python\openpose\openpose_python.cpp(450): message : 查看对正在编译的函数 模板 实例化“std::vector<int,std::allocator<int>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Ty=pybind11::ssize_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<pybind11::ssize_t>>>,
+              _Alloc=std::allocator<int>
+          ]
+    正在创建库 D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Release/pyopenpose.lib 和对象 D:/BaiduNetdiskDownload/openpose1/build/python/openpose/Release/pyopenpose.exp
+  正在生成代码
+  已完成代码的生成
+  pyopenpose.vcxproj -> D:\BaiduNetdiskDownload\openpose1\build\python\openpose\Release\pyopenpose.cp37-win_amd64.pyd
