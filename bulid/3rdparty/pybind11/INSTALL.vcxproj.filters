@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\build\CMakeFiles\da2230c4451775241bc8ed0461c643f0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F2C6A5F0-FA68-352B-8500-0DB6D18DD931}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

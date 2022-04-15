@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+D:/BaiduNetdiskDownload/openpose1/3rdparty/pybind11/CMakeLists.txt
+D:/BaiduNetdiskDownload/openpose1/3rdparty/pybind11/tools/FindPythonLibsNew.cmake
+D:/BaiduNetdiskDownload/openpose1/3rdparty/pybind11/tools/pybind11Tools.cmake
+D:/CMake/share/cmake-3.23/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+D:/CMake/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake
+D:/CMake/share/cmake-3.23/Modules/CMakeParseArguments.cmake
+D:/CMake/share/cmake-3.23/Modules/CheckCXXCompilerFlag.cmake
+D:/CMake/share/cmake-3.23/Modules/CheckCXXSourceCompiles.cmake
+D:/CMake/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake
+D:/CMake/share/cmake-3.23/Modules/FindPackageMessage.cmake
+D:/CMake/share/cmake-3.23/Modules/FindPythonInterp.cmake
+D:/CMake/share/cmake-3.23/Modules/GNUInstallDirs.cmake
+D:/CMake/share/cmake-3.23/Modules/Internal/CheckCompilerFlag.cmake
+D:/CMake/share/cmake-3.23/Modules/Internal/CheckFlagCommonConfig.cmake
+D:/CMake/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake
+D:/CMake/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake
