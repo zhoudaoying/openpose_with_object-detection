@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/openpose_generated_renderFace.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/face/openpose_generated_renderFace.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/openpose_generated_cuda.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/gpu/openpose_generated_cuda.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/openpose_generated_renderHand.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/hand/openpose_generated_renderHand.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_bodyPartConnectorBase.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_bodyPartConnectorBase.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_maximumBase.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_maximumBase.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_nmsBase.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_nmsBase.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_resizeAndMergeBase.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/net/openpose_generated_resizeAndMergeBase.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/openpose_generated_renderPose.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/pose/openpose_generated_renderPose.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/openpose_generated_pyramidalLK.cu.obj.cmake.pre-gen
+D:/BaiduNetdiskDownload/openpose1/build/src/openpose/CMakeFiles/openpose.dir/tracking/openpose_generated_pyramidalLK.cu.obj.depend
+D:/BaiduNetdiskDownload/openpose1/cmake/Utils.cmake
+D:/BaiduNetdiskDownload/openpose1/src/openpose/CMakeLists.txt
+D:/CMake/share/cmake-3.23/Modules/FindCUDA/run_nvcc.cmake
