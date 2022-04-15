@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\3d\cameraParameterReader.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\3d\defineTemplates.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\3d\jointAngleEstimation.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\3d\poseTriangulation.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\3d\poseTriangulationPrivate.cpp">
+      <Filter>Source Files\3d</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\calibration\cameraParameterEstimation.cpp">
+      <Filter>Source Files\calibration</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\calibration\gridPatternFunctions.cpp">
+      <Filter>Source Files\calibration</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\array.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\arrayCpuGpu.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\cvMatToOpInput.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\cvMatToOpOutput.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\datum.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\defineTemplates.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\gpuRenderer.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\keepTopNPeople.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\keypointScaler.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\matrix.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\opOutputToCvMat.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\point.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\rectangle.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\renderer.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\scaleAndSizeExtractor.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\string.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\core\verbosePrinter.cpp">
+      <Filter>Source Files\core</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\defineTemplates.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceDetector.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceDetectorOpenCV.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorCaffe.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceExtractorNet.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceCpuRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceGpuRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\faceRenderer.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\renderFace.cpp">
+      <Filter>Source Files\face</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\bvhSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\cocoJsonSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\defineTemplates.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\fileSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\fileStream.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\heatMapSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\imageSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\jsonOfstream.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\keypointSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\peopleJsonSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\udpSender.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\filestream\videoSaver.cpp">
+      <Filter>Source Files\filestream</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gpu\cuda.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gpu\gpu.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gpu\opencl.cpp">
+      <Filter>Source Files\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\defineTemplates.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\frameDisplayer.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\gui.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\guiAdam.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\gui3D.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gui\guiInfoAdder.cpp">
+      <Filter>Source Files\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\defineTemplates.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handDetector.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handDetectorFromTxt.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorCaffe.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handExtractorNet.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handCpuRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handGpuRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\handRenderer.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\renderHand.cpp">
+      <Filter>Source Files\hand</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorBaseCL.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\netOpenCv.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsBaseCL.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeBase.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeBaseCL.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeCaffe.cpp">
+      <Filter>Source Files\net</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\defineTemplates.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseCpuRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseExtractor.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseExtractorCaffe.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseExtractorNet.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseGpuRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseParameters.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseParametersRender.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\poseRenderer.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\renderPose.cpp">
+      <Filter>Source Files\pose</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\datumProducer.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\defineTemplates.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\flirReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\imageDirectoryReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\ipCameraReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\producer.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\spinnakerWrapper.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\videoCaptureReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\videoReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\producer\webcamReader.cpp">
+      <Filter>Source Files\producer</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\thread\defineTemplates.cpp">
+      <Filter>Source Files\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\tracking\defineTemplates.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\tracking\personIdExtractor.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\tracking\personTracker.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\tracking\pyramidalLK.cpp">
+      <Filter>Source Files\tracking</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\unity\unityBinding.cpp">
+      <Filter>Source Files\unity</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\errorAndLog.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\fileSystem.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\flagsToOpenPose.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\keypoint.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\openCv.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\openCvPrivate.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\profiler.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\utilities\string.cpp">
+      <Filter>Source Files\utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\defineTemplates.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperAuxiliary.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructExtra.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructFace.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructGui.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructHand.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructInput.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructOutput.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\wrapper\wrapperStructPose.cpp">
+      <Filter>Source Files\wrapper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\face\renderFace.cu">
+      <Filter>Source Files\face</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\gpu\cuda.cu">
+      <Filter>Source Files\gpu</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\hand\renderHand.cu">
+      <Filter>Source Files\hand</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\bodyPartConnectorBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\maximumBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\nmsBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\net\resizeAndMergeBase.cu">
+      <Filter>Source Files\net</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\pose\renderPose.cu">
+      <Filter>Source Files\pose</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\BaiduNetdiskDownload\openpose1\src\openpose\tracking\pyramidalLK.cu">
+      <Filter>Source Files\tracking</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\face\$(Configuration)\openpose_generated_renderFace.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\gpu\$(Configuration)\openpose_generated_cuda.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\hand\$(Configuration)\openpose_generated_renderHand.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_bodyPartConnectorBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_maximumBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_nmsBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\net\$(Configuration)\openpose_generated_resizeAndMergeBase.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\pose\$(Configuration)\openpose_generated_renderPose.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="D:\BaiduNetdiskDownload\openpose1\build\src\openpose\CMakeFiles\openpose.dir\tracking\$(Configuration)\openpose_generated_pyramidalLK.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{944A9288-532C-3674-B959-961393FD6C1D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3F19CD4B-6C24-3832-8AA9-073C37195B8D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3d">
+      <UniqueIdentifier>{68747F62-A07F-3E10-8258-8FBAF50658E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\calibration">
+      <UniqueIdentifier>{ED435223-96E4-3419-B454-F8F09630AD26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\core">
+      <UniqueIdentifier>{3A68C666-8683-30A0-9637-220B39BE8D11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\face">
+      <UniqueIdentifier>{6D8C7F9D-0B78-3849-A21E-AF708503B5E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\filestream">
+      <UniqueIdentifier>{0591D3FB-3C09-3B7C-8D37-4833C1F51B16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gpu">
+      <UniqueIdentifier>{4CC1D3CC-5BD7-313C-BD2A-7F7D0F521385}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\gui">
+      <UniqueIdentifier>{39C43318-64CD-3BF4-B228-0F5291110837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\hand">
+      <UniqueIdentifier>{A8967662-9C39-3131-AB03-90D97AB6F023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\net">
+      <UniqueIdentifier>{02343AA1-1A20-36EF-8537-EABB1B3FA96E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\pose">
+      <UniqueIdentifier>{A5D0C7CA-5D5D-3404-846D-64348A3105CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\producer">
+      <UniqueIdentifier>{45ED1649-2F65-31C0-A293-7E0F9D2B77E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\thread">
+      <UniqueIdentifier>{DFFDE21B-15DA-3C7E-824E-0B2F65D6E1C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tracking">
+      <UniqueIdentifier>{8EDDD32B-59E9-37B1-90F3-2DBD3B7D7F9D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\unity">
+      <UniqueIdentifier>{AD52B9D7-7336-3CCD-B9A2-9249619F89EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\utilities">
+      <UniqueIdentifier>{E86EFCBB-4B3E-3E7C-8E90-07F3B7C11DDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\wrapper">
+      <UniqueIdentifier>{57EBD3A0-E23A-36E4-B6A6-D07EE4F9133F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
